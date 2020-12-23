@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LeBonAnglee</string>
+    <string name="le_bon">Le Bon</string>
+    <string name="angle">Angle</string>
+    <string name="nom_de_l_annonce">Nom de l\'annonce</string>
+    <string name="contenu">Contenu</string>
+    <string name="nom_de_l_auteur">Nom de l\'auteur</string>
+    <string name="email">email</string>
+    <string name="prix">Prix</string>
+    <string name="createAdvert">Créer l\'annonce</string>
+    <string name="cancel">Annuler</string>
+    <string name="filtrer_par_prix">Filtrer par prix</string>
+    <string name="filtrer_par_date">Filtrer par date</string>
+    <string name="cr_er_une_annonce">Créer une annonce</string>
+</resources>
